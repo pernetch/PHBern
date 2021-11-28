@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T19:54:37.362Z" agent="5.0 (Windows)" etag="iM7I_oaZHY6beyCLTkAa" version="15.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-28T19:55:27.916Z" agent="5.0 (Windows)" etag="1jt10TzY7VHIspPo8sXG" version="15.8.6" type="github" pages="2">
   <diagram id="qZuJ994I1L6a4Dy2M6rf" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KJsKBttcmhN-YfsxRf1z-6" value="&lt;pre&gt;&lt;code class=&quot;cm-s-ipython language-python&quot;&gt;&lt;span class=&quot;cm-variable&quot;&gt;prenom&lt;/span&gt; &lt;span class=&quot;cm-operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;cm-string&quot;&gt;&lt;br&gt;&quot;LISA&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="KJsKBttcmhN-YfsxRf1z-1">
+        <mxCell id="KJsKBttcmhN-YfsxRf1z-6" value="&lt;pre&gt;&lt;code class=&quot;cm-s-ipython language-python&quot;&gt;&lt;span class=&quot;cm-variable&quot;&gt;prenom&lt;/span&gt; &lt;span class=&quot;cm-operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;cm-string&quot;&gt;&lt;br&gt;&quot;Lisa&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="KJsKBttcmhN-YfsxRf1z-1">
           <mxGeometry x="280" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KJsKBttcmhN-YfsxRf1z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KJsKBttcmhN-YfsxRf1z-1" source="KJsKBttcmhN-YfsxRf1z-8" target="KJsKBttcmhN-YfsxRf1z-9">
@@ -79,10 +79,10 @@
         <mxCell id="KJsKBttcmhN-YfsxRf1z-8" value="&lt;font face=&quot;Monospace&quot;&gt;print(&quot;Bonjour Lisa !&quot;)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; print(&quot;Quel plaisir de vous revoir !&quot;)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="KJsKBttcmhN-YfsxRf1z-1">
           <mxGeometry x="20" y="290" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KJsKBttcmhN-YfsxRf1z-9" value="...." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="KJsKBttcmhN-YfsxRf1z-1">
+        <mxCell id="KJsKBttcmhN-YfsxRf1z-9" value="suite/fin du programme..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="KJsKBttcmhN-YfsxRf1z-1">
           <mxGeometry x="225" y="394" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KJsKBttcmhN-YfsxRf1z-10" value="&lt;font face=&quot;Monospace&quot;&gt;print(&quot;Bonjour Lisa !&quot;)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; print(&quot;Quel plaisir de vous revoir !&quot;)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="KJsKBttcmhN-YfsxRf1z-1">
+        <mxCell id="KJsKBttcmhN-YfsxRf1z-10" value="&lt;font face=&quot;Monospace&quot;&gt;print(&quot;Je ne vous connais pas !&quot;)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="KJsKBttcmhN-YfsxRf1z-1">
           <mxGeometry x="350" y="290" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KJsKBttcmhN-YfsxRf1z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KJsKBttcmhN-YfsxRf1z-1" source="KJsKBttcmhN-YfsxRf1z-10" target="KJsKBttcmhN-YfsxRf1z-9">
